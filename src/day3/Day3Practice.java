@@ -17,8 +17,8 @@ public class Day3Practice {
         System.out.println("average: " + result);
 
 
-//        double d = 3.5;
-//        int t = (int) d;
-//        System.out.println("t = " + t);
+        double d = 3.5;
+        int t = (int) d;
+        System.out.println("t = " + t);
     }
 }
