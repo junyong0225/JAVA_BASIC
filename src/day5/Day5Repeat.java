@@ -12,13 +12,13 @@ public class Day5Repeat {
             System.out.println("안녕하세오" + i);
         }
 
-    int count = 1;
+        int count = 1;
         while (count <= 5) {
             System.out.println("count = " + count);
             count++;
         }
 
-    int countt = 5;
+        int countt = 5;
         while (countt >= 1) {
             System.out.println("counbt = " + countt);
             countt--;
