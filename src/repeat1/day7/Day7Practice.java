@@ -1,6 +1,5 @@
-package day7;
+package repeat1.day7;
 
-import java.sql.SQLOutput;
 import java.util.Scanner;
 
 public class Day7Practice {

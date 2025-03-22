@@ -1,4 +1,4 @@
-package day2;
+package repeat1.day2;
 
 public class Day2Variable {
     public static void main(String[] args) {

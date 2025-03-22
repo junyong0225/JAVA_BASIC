@@ -1,4 +1,4 @@
-package day7;
+package repeat1.day7;
 
 public class Day7Array {
     public static void main(String[] args) {

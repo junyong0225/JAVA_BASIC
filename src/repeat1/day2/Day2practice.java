@@ -1,4 +1,4 @@
-package day2;
+package repeat1.day2;
 
 import java.util.Scanner;
 
