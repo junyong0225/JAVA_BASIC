@@ -13,7 +13,7 @@ public class Day2Practice {
         int year = sc.nextInt();
         System.out.println("당신의 나이는 " + (2024 - year + 1) + "입니다.");
 
-        // 사각형 넓이 계산기
+        // 사각형 넓이 계산
         System.out.print("사각형의 가로 길이를 입력하세요: ");
         double ver = sc.nextDouble();
         System.out.print("사각형의 세로 길이를 입력하세요: ");
